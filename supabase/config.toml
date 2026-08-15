@@ -1,0 +1,4 @@
+project_id = "yqoxomxrorjenaoirbgc"
+
+[functions.essay-feedback]
+verify_jwt = false
